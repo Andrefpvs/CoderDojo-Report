@@ -3,5 +3,5 @@ My report on my tutoring activities at CoderDojo, a global volunteer-led communi
 
 The reports are written in Portuguese (as the activity took place in Portugal), with a focus on activities, learnings, and soft-skills.
 
-AR: Activity  Report
+AR: Activity  Report / 
 LR: Learnings Report
